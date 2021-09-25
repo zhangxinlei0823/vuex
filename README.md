@@ -27,4 +27,5 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 ### 此项目是一个vuex针对组件之间的数据存储练习项目
 1.1 store的存储方式有两种
 
+1.2 mutations有同步操作和异步操作
 
